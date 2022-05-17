@@ -25,7 +25,7 @@ const EditUse = () => {
     return () => {
       loaduserData();
     };
-  },[]);
+  }, []);
   //function that fetch data from the api
   const loaduserData = async () => {
     const response = await fetchData(id);

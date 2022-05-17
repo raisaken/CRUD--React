@@ -1,9 +1,4 @@
-
-
-const Main=()=>{
-    return(
-<>
-</>
-    )
-}
+const Main = () => {
+  return <></>;
+};
 export default Main;
